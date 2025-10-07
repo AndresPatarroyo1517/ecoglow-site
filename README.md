@@ -1,1 +1,1 @@
-# ecoglow-site
+ecog

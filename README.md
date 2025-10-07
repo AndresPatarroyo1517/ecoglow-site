@@ -57,7 +57,7 @@ ecoglow/
 
 1. **Clona el repositorio**
 ``` bash
-   git clone https://github.com/tuusuario/ecoglow.git
+   [git clone https://github.com/tuusuario/ecoglow.git](https://github.com/AndresPatarroyo1517/ecoglow-site.git)
    cd ecoglow
   ```
 2. Instala las dependencias

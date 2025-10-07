@@ -51,7 +51,7 @@ export function Footer() {
             <h3 className="text-lg font-semibold mb-4">Síguenos</h3>
             <div className="flex space-x-4">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/ecoglownva?igsh=eWNpODYzdjc5d3V1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-eco-green/20 rounded-full flex items-center justify-center hover:bg-eco-green transition-colors"
@@ -71,7 +71,7 @@ export function Footer() {
                 </svg>
               </a>
               <a
-                href="https://wa.me/573001234567"
+                href="https://wa.me/573054226583"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-eco-green/20 rounded-full flex items-center justify-center hover:bg-eco-green transition-colors"
@@ -80,7 +80,7 @@ export function Footer() {
                 <MessageCircle className="w-5 h-5" />
               </a>
               <a
-                href="mailto:contacto@ecoglow.com"
+                href="mailto:ecoglow.contacto@gmail.com"
                 className="w-10 h-10 bg-eco-green/20 rounded-full flex items-center justify-center hover:bg-eco-green transition-colors"
                 aria-label="Email"
               >
@@ -90,7 +90,7 @@ export function Footer() {
             <div className="mt-6">
               <p className="text-sm text-cream/80">
                 <Mail className="w-4 h-4 inline mr-2" />
-                contacto@ecoglow.com
+                ecoglow.contacto@gmail.com
               </p>
               <p className="text-sm text-cream/80 mt-2">
                 <MessageCircle className="w-4 h-4 inline mr-2" />

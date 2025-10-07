@@ -26,8 +26,8 @@ export default function ContactoPage() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'contacto@ecoglow.com',
-      link: 'mailto:contacto@ecoglow.com',
+      value: 'ecoglow.contacto@gmail.com',
+      link: 'mailto:ecoglow.contacto@gmail.com',
     },
     {
       icon: Phone,
@@ -182,7 +182,7 @@ export default function ContactoPage() {
 
                 <div className="flex space-x-4">
                   <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/ecoglownva?igsh=eWNpODYzdjc5d3V1"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-14 h-14 bg-eco-green/20 rounded-full flex items-center justify-center hover:bg-eco-green hover:text-white transition-all"
@@ -200,7 +200,7 @@ export default function ContactoPage() {
                     </svg>
                   </a>
                   <a
-                    href="https://wa.me/573001234567"
+                    href="https://wa.me/573054226583"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-14 h-14 bg-eco-green/20 rounded-full flex items-center justify-center hover:bg-eco-green hover:text-white transition-all"

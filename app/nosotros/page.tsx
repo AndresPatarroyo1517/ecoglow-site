@@ -46,7 +46,7 @@ export default function NosotrosPage() {
                   Nacimos de la pasión por un planeta más verde
                 </h2>
                 <p className="text-deep-green/70 leading-relaxed mb-4">
-                  EcoGlow comenzó en 2020 con una simple pero poderosa idea: hacer que la vida sostenible
+                  EcoGlow comenzó en 2025 con una simple pero poderosa idea: hacer que la vida sostenible
                   sea accesible, elegante y deseable para todos. Vimos cómo los productos desechables y
                   no ecológicos dominaban el mercado, causando un daño irreparable a nuestro planeta.
                 </p>

@@ -69,6 +69,9 @@ ecoglow/
 🧑‍💻 Autor
 
 Desarrollado con 💚 por:
+
 Andrés Felipe Patarroyo
+
 Valeria Ramos Betancourt
+
 Inspirado en la armonía entre la naturaleza y la tecnología.

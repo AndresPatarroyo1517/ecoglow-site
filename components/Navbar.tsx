@@ -24,7 +24,13 @@ export function Navbar({ onCartClick }: { onCartClick: () => void }) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center space-x-2 group">
-            <Leaf className="w-8 h-8 text-deep-green group-hover:text-eco-green transition-colors" />
+            <img
+              src="/favicon.ico"
+              alt="EcoGlow logo"
+              width={40}
+              height={40}
+              className="w-8 h-8 rounded-full group-hover:opacity-80 transition-opacity"
+            />
             <div className="flex flex-col">
               <span className="text-xl font-bold text-deep-green">EcoGlow</span>
               <span className="text-xs text-eco-green -mt-1">Brilla con conciencia</span>

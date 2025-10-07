@@ -27,31 +27,30 @@ Su objetivo es inspirar a las personas a adoptar un estilo de vida más conscien
 ---
 
 ## 📂 Estructura del proyecto
-
+```
 ecoglow/
-├─ app/ # Páginas con App Router (Next.js 13)
-│ ├─ contacto/ # Página de contacto
-│ │  └─ page.tsx
-│ ├─ nosotros/ # Página sobre nosotros
-│ │  └─ page.tsx
-│ ├─ testimonios/ # Página sobre los comentarios de personas (ficticias)
-│ │  └─ page.tsx
-│ ├─ tienda/ # Página con los productos a comprar (Ficticios) 
-│ │  └─ page.tsx
-│ ├─  tienda/ # Sección de productos
-│ │  └─ page.tsx
-│ ├─ globals.css # Estilos
-│ ├─ layout.tsx 
-│ └─ pag.tsx # Página principal
-├─ components/ # Componentes reutilizables (Navbar, Footer, etc.)
-├─ data/ # Datos estáticos (ej. lista de productos)
-├─ public/ # Archivos públicos (favicon)
-├─ context/ # Contexto para guardar objetos en el carrito
-├─ hooks/ # Funciones reutilizables
-├─ lib/ # Utilidades
-├─ types/ # Interfaces para los datos (estáticos)
+├─ app/                    # Páginas con App Router (Next.js 13)
+│  ├─ contacto/            # Página de contacto
+│  │  └─ page.tsx
+│  ├─ nosotros/            # Página sobre nosotros
+│  │  └─ page.tsx
+│  ├─ testimonios/         # Página con comentarios de personas (ficticias)
+│  │  └─ page.tsx
+│  ├─ tienda/              # Página con los productos a comprar (ficticios)
+│  │  └─ page.tsx
+│  ├─ globals.css          # Estilos globales
+│  ├─ layout.tsx           # Layout principal
+│  └─ page.tsx             # Página principal
+├─ components/             # Componentes reutilizables (Navbar, Footer, etc.)
+├─ data/                   # Datos estáticos (lista de productos)
+├─ public/                 # Archivos públicos (favicon, imágenes)
+├─ context/                # Contexto para guardar objetos en el carrito
+├─ hooks/                  # Funciones reutilizables
+├─ lib/                    # Utilidades
+├─ types/                  # Interfaces para los datos (estáticos)
 ├─ package.json
 └─ README.md
+```
 
 
 ## ⚙️ Instalación y ejecución
@@ -69,5 +68,7 @@ ecoglow/
 
 🧑‍💻 Autor
 
-Desarrollado con 💚 por Andrés Felipe Patarroyo
+Desarrollado con 💚 por:
+Andrés Felipe Patarroyo
+Valeria Ramos Betancourt
 Inspirado en la armonía entre la naturaleza y la tecnología.
